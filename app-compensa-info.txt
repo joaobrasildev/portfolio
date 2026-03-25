@@ -1,0 +1,6 @@
+	1	Nome do app: E aí, compensa?
+	2	Descrição curta: É um simulador financeiro comportamental que mostra, de forma visual e clara, o impacto das suas escolhas financeiras ao longo do tempo, auxiliando na redução de compras impulsivas.
+	3	Stack/tecnologias utilizadas: React Native, Firebase, SqLite
+	4   Link da App Store (iOS): https://apps.apple.com/us/app/e-a%C3%AD-compensa/id6759713589
+	5   Link da Google Play (Android): https://play.google.com/store/apps/details?id=com.compensaapp.compensa&utm_source=latam_Med
+	6   Screenshot ou imagem do app: está em assets/e-ai-compensa

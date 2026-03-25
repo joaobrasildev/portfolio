@@ -1,0 +1,5 @@
+Nome do app: Tibia Stories
+Descrição curta: É um espaço para ler e contar histórias vividas no jogo Tibia, além de relembrar bons momentos do passado
+Stack/tecnologias utilizadas: React Native, Firebase, SqLite
+Pode colocar "Coming Soon"
+Screenshot ou imagem do app: está em assets/tibia-stories
